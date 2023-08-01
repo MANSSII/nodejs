@@ -1,8 +1,8 @@
 -- to create a new database
-CREATE DATABASE customersdb;
+CREATE DATABASE test;
 
 -- to use database
-use customersdb;
+use test;
 
 -- creating a new table
 CREATE TABLE customer (

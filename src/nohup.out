@@ -1,0 +1,39 @@
+
+> crud-nodejs-mysql@1.0.0 start /home/ubuntu/upflairs-test
+> node src/index.js
+
+server on port 3000
+[0mGET / [32m200[0m 209.137 ms - 2463[0m
+[0mGET / [32m200[0m 3.831 ms - 2463[0m
+[0mGET / [32m200[0m 2.383 ms - 2463[0m
+[0mGET / [32m200[0m 2.206 ms - 2463[0m
+[0mGET / [32m200[0m 2.055 ms - 2463[0m
+[0mGET / [32m200[0m 2.108 ms - 2463[0m
+[0mGET / [32m200[0m 2.826 ms - 2463[0m
+[0mGET / [32m200[0m 1.956 ms - 2463[0m
+[0mGET / [32m200[0m 2.092 ms - 2463[0m
+[0mGET / [32m200[0m 2.052 ms - 2463[0m
+[0mGET / [32m200[0m 2.090 ms - 2463[0m
+[0mGET / [32m200[0m 2.669 ms - 2463[0m
+[0mGET / [32m200[0m 2.012 ms - 2463[0m
+[0mGET / [32m200[0m 2.000 ms - 2463[0m
+[0mGET / [32m200[0m 1.956 ms - 2463[0m
+[0mGET / [32m200[0m 1.944 ms - 2463[0m
+[0mGET / [32m200[0m 2.571 ms - 2463[0m
+[0mGET / [32m200[0m 1.990 ms - 2463[0m
+[0mGET / [32m200[0m 1.834 ms - 2463[0m
+[0mGET / [32m200[0m 1.931 ms - 2463[0m
+[0mGET / [32m200[0m 1.980 ms - 2463[0m
+[0mGET / [32m200[0m 2.621 ms - 2463[0m
+[0mGET / [32m200[0m 1.929 ms - 2463[0m
+[0mGET / [32m200[0m 1.875 ms - 2463[0m
+
+> crud-nodejs-mysql@1.0.0 start /home/ubuntu/upflairs-test
+> node src/index.js
+
+server on port 3000
+[0mGET / [32m200[0m 37.645 ms - 2463[0m
+[0mGET / [32m200[0m 3.146 ms - 2463[0m
+[0mGET /styles/index.css [36m304[0m 2.635 ms - -[0m
+[0mGET / [32m200[0m 2.878 ms - 2463[0m
+[0mGET / [32m200[0m 2.825 ms - 2463[0m
